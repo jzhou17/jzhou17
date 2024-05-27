@@ -1,5 +1,8 @@
-## Joshua Zhou
-Information:
+# Profiles and Contacts:
+Github: https://github.com/jzhou17<br>
+LinkedIn: https://www.linkedin.com/in/joshua-zhou-4727b4206/<br>
+Handshake: https://utk.joinhandshake.com/stu/users/38185093<br>
+Academic Email: jzhou35@vols.utk.edu
 <!--
 ## Hi there 👋
 
