@@ -1,4 +1,4 @@
-# Profiles and Contacts:
+## Profiles and Contacts:
 | Platform       | URL                                                  |
 | -------------- | ---------------------------------------------------- |
 | Github         | https://github.com/jzhou17                           |
