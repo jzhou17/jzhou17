@@ -1,7 +1,7 @@
 ![](/github-header.png)
-# About me:
+## About me:
 Hi, I am a junior at the University of Tennessee, Knoxville, studying Computer Science with a minor in Cybersecurity. I am slated to graduate in the Spring of 2026. Post graduation, I hope to pursue a career as a Computer Networking DevOps Engineer.
-### Profiles and Contacts:
+## Profiles and Contacts:
 | Platform       | URL                                                  |
 | -------------- | ---------------------------------------------------- |
 | Github         | https://github.com/jzhou17                           |
