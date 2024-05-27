@@ -1,8 +1,10 @@
 # Profiles and Contacts:
-Github:         https://github.com/jzhou17<br>
-LinkedIn:       https://www.linkedin.com/in/joshua-zhou-4727b4206/<br>
-Handshake:      https://utk.joinhandshake.com/stu/users/38185093<br>
-Academic Email: jzhou35@vols.utk.edu
+| Platform       | URL                                                  |
+| -------------- | ---------------------------------------------------- |
+| Github         | https://github.com/jzhou17                           |
+| LinkedIn       | https://www.linkedin.com/in/joshua-zhou-4727b4206/   |
+| Handshake      | https://utk.joinhandshake.com/stu/users/38185093     |
+| Academic Email | jzhou35@vols.utk.edu                                 |
 <!--
 ## Hi there 👋
 
