@@ -1,4 +1,6 @@
-## Profiles and Contacts:
+### About me:
+Hi, my name is Joshua Zhou and I am a junior at the University of Tennessee, Knoxville, studying Computer Science with a minor in Cybersecurity. I am slated to graduate in the Spring of 2026, and hope to pursue a career in Computer Networking DevOps.
+### Profiles and Contacts:
 | Platform       | URL                                                  |
 | -------------- | ---------------------------------------------------- |
 | Github         | https://github.com/jzhou17                           |
